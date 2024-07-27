@@ -5,8 +5,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiShaYa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- uses: Platane/snk@v3
-  with:
+uses: Platane/snk@v3
+with:
     github_user_name: ${{DiShaYa}}
     outputs: |
       dist/github-snake.svg
