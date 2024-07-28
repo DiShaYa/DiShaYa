@@ -41,15 +41,19 @@
 
 
 ### Другие  
-<div align="right">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" align="right" style="width: 100%" />
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" align="center" height="30" width="" />
 </div>  
   
 
-<img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.png" align="left" style="width: 100%" />  
+<div align="center">
+<img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.png" align="center" height="35" width="" />
+</div>  
   
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/220px-SQLAlchemy.svg.png" align="left" style="width: 100%" />  
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/220px-SQLAlchemy.svg.png" align="center" height="40" width="" />
+</div>  
 
 
 </td></tr></table>  
