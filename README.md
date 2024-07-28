@@ -3,14 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Начинающая+разработчица)](https://git.io/typing-svg)
 
 :mortar_board: Выпускница КФУ
+
 💫 Мне нравится работать с базами данных
+
 💕 Люблю создавать красивые дизайны
 
 ✉️ Связаться со мной: shayakhmetovadiane@gmail.com
 
 ## Мои навыки
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiShaYa&hide_progress=true)
 
 <table><tr><td valign="top" width="33%">
 
