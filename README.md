@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiShaYa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiShaYa&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiShaYa&langs_count=8)
 
 ![snake gif](https://github.com/DiShaYa/DiShaYa/blob/output/github-contribution-grid-snake.gif)
 
