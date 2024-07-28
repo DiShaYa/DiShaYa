@@ -1,6 +1,10 @@
 ## Обо мне
 
+<img align='right' src='https://github.com/DiShaYa/DiShaYa/blob/main/photo_5404370332699184495_x.jpg' width='250'>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Начинающая+разработчица)](https://git.io/typing-svg)
+
+
 
 :mortar_board: Выпускница КФУ
 
