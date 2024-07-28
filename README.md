@@ -49,15 +49,14 @@
 
 
 ### Другие  
-<div align="center">
+
+ <div align="center" style="padding: 0 20px;">
    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" align="center" height="34" width="" />
-</div>
-<div>
+
    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.png" align="center" height="40" width="" />
-</div>
-<div>
+
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/220px-SQLAlchemy.svg.png" align="center" height="45" width="" />
-</div>  
+ </div>  
 
 
 </td></tr></table>  
