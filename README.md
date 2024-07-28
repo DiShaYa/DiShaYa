@@ -50,11 +50,11 @@
 
 ### Другие  
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" align="center" height="34" width="" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" align="center" height="34" width="" />
 
-<img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.png" align="center" height="40" width="" />
+   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.png" align="center" height="40" width="" />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/220px-SQLAlchemy.svg.png" align="center" height="45" width="" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/220px-SQLAlchemy.svg.png" align="center" height="45" width="" />
 </div>  
 
 
