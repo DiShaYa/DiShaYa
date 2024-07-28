@@ -13,6 +13,10 @@
 • ✉️ shayakhmetovadiane@gmail.com
 
 
+
+
+
+
 ## 🧩 Мои навыки 
 
 <table><tr><td valign="top" width="33%">
