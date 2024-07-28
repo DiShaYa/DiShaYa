@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Начинающая+разработчица)](https://git.io/typing-svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiShaYa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiShaYa&langs_count=8)
 
 ![snake gif](https://github.com/DiShaYa/DiShaYa/blob/output/github-contribution-grid-snake.gif)
