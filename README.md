@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiShaYa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+
 ![snake gif](https://github.com/DiShaYa/DiShaYa/blob/output/github-contribution-grid-snake.gif)
 
 <!--
