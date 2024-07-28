@@ -2,16 +2,15 @@
 
 <img align='right' src='https://github.com/DiShaYa/DiShaYa/blob/main/photo_5404370332699184495_x.jpg' width='250'>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Начинающая+разработчица)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=810&color=552FA9&width=426&height=20&lines=%D0%9D%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B0%D1%8F+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D1%86%D0%B0)](https://git.io/typing-svg)
 
+• :mortar_board: Выпускница КФУ
 
-:mortar_board: Выпускница КФУ
+• 📊 Мне нравится работать с базами данных
 
-• Мне нравится работать с базами данных
+• 🎀 Люблю создавать красивые дизайны
 
-• Люблю создавать красивые дизайны
-
-✉️ Связаться со мной: shayakhmetovadiane@gmail.com
+• ✉️ shayakhmetovadiane@gmail.com
 
 
 ## Мои навыки
