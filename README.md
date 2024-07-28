@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Начинающая+разработчица)](https://git.io/typing-svg)
 
 
-
 :mortar_board: Выпускница КФУ
 
 • Мне нравится работать с базами данных
@@ -62,6 +61,37 @@
 
 
 </td></tr></table>  
+
+## Мои лучшие проекты
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Skills used</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+          <a href='https://github.com/DiShaYa/FlaskSiteAirl'>FlaskSiteAirl</a>
+          <a href='https://github.com/DiShaYa/RSRAPI_Neo4j'>RSRAPI_Neo4j</a>
+      </td>
+      <td>Python, Html, Cypher</td>
+      <td>Сайт с Нереляционная БД и Яндекс.картой, представляющей рейсы самолетов</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/DiShaYa/vkr-iintegrated-development-environment-for-educational-systems-'>Сайт "Перспектива"</a></td>
+      <td>Html, Css, Python, MySQL</td>
+      <td>Сайт Flask с онлайн курсами</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/DiShaYa/AI-Tg-bot-models-FewShotClassificationAndContextQuestionAnswering">Телеграм бот с ии</a></td>
+      <td>HTML,CSS,Javascript</td>
+      <td>Бот с ИИ использующий модели Few-shots и ContextAnswering</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ![snake gif](https://github.com/DiShaYa/DiShaYa/blob/output/github-contribution-grid-snake.gif)
