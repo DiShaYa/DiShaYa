@@ -40,7 +40,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/DiShaYa/AI-Tg-bot-models-FewShotClassificationAndContextQuestionAnswering">Телеграм бот с ии</a></td>
-      <td>HTML,CSS,Javascript</td>
+      <td>Python</td>
       <td>Бот с ИИ использующий модели Few-shots и ContextAnswering</td>
     </tr>
   </tbody>
