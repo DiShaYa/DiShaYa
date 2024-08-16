@@ -20,18 +20,18 @@
   <thead>
     <tr>
       <th><strong>Название</strong></th>
-      <td style="background-color: #e6ffe6;">
+      <td>
         <a href='https://github.com/DiShaYa/FlaskSiteAirl'>FlaskSiteAirl</a>
         <a href='https://github.com/DiShaYa/RSRAPI_Neo4j'>RSRAPI_Neo4j</a>
       </td>
-      <td style="background-color: #f3e6ff;">
+      <td>
         <a href='https://github.com/DiShaYa/vkr-iintegrated-development-environment-for-educational-systems-'>
           Сайт "Перспектива"
         </a>
         <br>
         <img src='https://github.com/DiShaYa/vkr-iintegrated-development-environment-for-educational-systems-/blob/main/static/img/qwe.png' width='50' height='50'>
       </td>
-      <td style="background-color: #e6f7ff;">
+      <td>
         <a href="https://github.com/DiShaYa/AI-Tg-bot-models-FewShotClassificationAndContextQuestionAnswering">Телеграм бот с ии</a>
       </td>
     </tr>
@@ -39,18 +39,19 @@
   <tbody>
     <tr>
       <td>Стек</td>
-      <td style="background-color: #e6ffe6;">Python, Html, Cypher</td>
-      <td style="background-color: #f3e6ff;">Html, Css, Python, MySQL</td>
-      <td style="background-color: #e6f7ff;">Python</td>
+      <td>Python, Html, Cypher</td>
+      <td>Html, Css, Python, MySQL</td>
+      <td>Python</td>
     </tr>
     <tr>
       <td>Описание</td>
-      <td style="background-color: #e6ffe6;">Сайт с Нереляционная БД и Яндекс.картой, представляющей рейсы самолетов</td>
-      <td style="background-color: #f3e6ff;">Сайт Flask с онлайн курсами</td>
-      <td style="background-color: #e6f7ff;">Бот с ИИ использующий модели Few-shots и ContextAnswering</td>
+      <td>Сайт с Нереляционная БД и Яндекс.картой, представляющей рейсы самолетов</td>
+      <td>Сайт Flask с онлайн курсами</td>
+      <td>Бот с ИИ использующий модели Few-shots и ContextAnswering</td>
     </tr>
   </tbody>
 </table>
+
 
 ## 🧩 Мои навыки 
 
