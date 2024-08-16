@@ -19,20 +19,27 @@
 <table>
   <thead>
     <tr>
-      <th><strong>Название</strong></th>
+      <th>Название</th>
       <td>
+        <img src='https://github.com/DiShaYa/DiShaYa/blob/main/4607757.png' width='65' height='65'>
+        <br>
         <a href='https://github.com/DiShaYa/FlaskSiteAirl'>FlaskSiteAirl</a>
+        <br>
         <a href='https://github.com/DiShaYa/RSRAPI_Neo4j'>RSRAPI_Neo4j</a>
       </td>
       <td>
+        <img src='https://github.com/DiShaYa/vkr-iintegrated-development-environment-for-educational-systems-/blob/main/static/img/qwe.png' width='70' height='75'>
+        <br>
         <a href='https://github.com/DiShaYa/vkr-iintegrated-development-environment-for-educational-systems-'>
           Сайт "Перспектива"
         </a>
-        <br>
-        <img src='https://github.com/DiShaYa/vkr-iintegrated-development-environment-for-educational-systems-/blob/main/static/img/qwe.png' width='50' height='50'>
       </td>
       <td>
-        <a href="https://github.com/DiShaYa/AI-Tg-bot-models-FewShotClassificationAndContextQuestionAnswering">Телеграм бот с ии</a>
+        <img src='https://github.com/DiShaYa/DiShaYa/blob/main/512px-Telegram_2019_Logo.png' width='60' height='60'>
+        <br>
+        <a href="https://github.com/DiShaYa/AI-Tg-bot-models-FewShotClassificationAndContextQuestionAnswering">
+          Телеграм бот с ии
+        </a>
       </td>
     </tr>
   </thead>
@@ -45,13 +52,12 @@
     </tr>
     <tr>
       <td>Описание</td>
-      <td>Сайт с Нереляционная БД и Яндекс.картой, представляющей рейсы самолетов</td>
+      <td>Сайт с Нереляционная БД Neo4j и Яндекс.картой, представляющей рейсы самолетов</td>
       <td>Сайт Flask с онлайн курсами</td>
       <td>Бот с ИИ использующий модели Few-shots и ContextAnswering</td>
     </tr>
   </tbody>
 </table>
-
 
 ## 🧩 Мои навыки 
 
