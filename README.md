@@ -16,105 +16,20 @@
 
 
 ## 💼 Мои интересные проекты 
-<table>
-  <thead>
-    <tr>
-      <th>Название</th>
-      <td>
-        <img src='https://github.com/DiShaYa/DiShaYa/blob/main/4607757.png' width='65' height='65'>
-        <br>
-        <a href='https://github.com/DiShaYa/FlaskSiteAirl'>FlaskSiteAirl</a>
-        <br>
-        <a href='https://github.com/DiShaYa/RSRAPI_Neo4j'>RSRAPI_Neo4j</a>
-      </td>
-      <td>
-        <img src='https://github.com/DiShaYa/vkr-iintegrated-development-environment-for-educational-systems-/blob/main/static/img/qwe.png' width='70' height='75'>
-        <br>
-        <a href='https://github.com/DiShaYa/vkr-iintegrated-development-environment-for-educational-systems-'>
-          Сайт "Перспектива"
-        </a>
-      </td>
-      <td>
-        <img src='https://github.com/DiShaYa/DiShaYa/blob/main/512px-Telegram_2019_Logo.png' width='60' height='60'>
-        <br>
-        <a href="https://github.com/DiShaYa/AI-Tg-bot-models-FewShotClassificationAndContextQuestionAnswering">
-          Телеграм бот с ии
-        </a>
-      </td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Стек</td>
-      <td>Python, Html, Cypher</td>
-      <td>Html, Css, Python, MySQL</td>
-      <td>Python</td>
-    </tr>
-    <tr>
-      <td>Описание</td>
-      <td>Сайт с Нереляционная БД Neo4j и Яндекс.картой, представляющей рейсы самолетов</td>
-      <td>Сайт Flask с онлайн курсами</td>
-      <td>Бот с ИИ использующий модели Few-shots и ContextAnswering</td>
-    </tr>
-  </tbody>
-</table>
 
-## 🧩 Мои навыки 
+#### [FlaskSiteAirl](https://github.com/DiShaYa/FlaskSiteAirl)
+- **Стек**: Python, HTML, Cypher
+- **Описание**: Сайт с нереляционной БД Neo4j и Яндекс.картой, представляющей рейсы самолетов
 
-<table style="width: 100%; table-layout: auto;"><tr><td valign="top" >
+#### [RSRAPI_Neo4j](https://github.com/DiShaYa/RSRAPI_Neo4j)
+- **Стек**: Python, HTML, Cypher
+- **Описание**: Сайт с нереляционной БД Neo4j и Яндекс.картой, представляющей рейсы самолетов
 
+#### [Сайт "Перспектива"](https://github.com/DiShaYa/vkr-iintegrated-development-environment-for-educational-systems-)
+- **Стек**: HTML, CSS, Python, MySQL
+- **Описание**: Сайт Flask с онлайн курсами
 
+#### [Телеграм бот с ИИ](https://github.com/DiShaYa/AI-Tg-bot-models-FewShotClassificationAndContextQuestionAnswering)
+- **Стек**: Python
+- **Описание**: Бот с ИИ, использующий модели Few-shots и ContextAnswering
 
-   
-<div align="center;"> 
-  <h3>Frontend</h3> 
-  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="60" /></a>  
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60" /></a>  
-  <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="60" /></a>  
-</div>
-
-</td><td valign="top" >
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60"  width="" align="center"/></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="60" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="60" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="60" /></a>  
-</div>
-
-</td><td valign="top" >
-
-
-
-### Другие  
-
- <div align="center" style="padding: 0 20px;">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" align="center" height="34" width="" />
-
-   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.png" align="center" height="40" width="" />
-
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/220px-SQLAlchemy.svg.png" align="center" height="45" width="" />
- </div>  
-
-
-</td></tr></table>  
-
-![snake gif](https://github.com/DiShaYa/DiShaYa/blob/output/github-contribution-grid-snake.gif)
-
-<!--
-**DiShaYa/DiShaYa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
