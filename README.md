@@ -9,26 +9,5 @@
 
 • 📊 Мне нравится работать с базами данных
 
-• 🎀 Люблю создавать красивые дизайны
-
 • ✉️ shayakhmetovadiane@gmail.com
 
-
-
-## 💼 Мои интересные проекты 
-
-#### [FlaskSiteAirl](https://github.com/DiShaYa/FlaskSiteAirl), [RSRAPI_Neo4j](https://github.com/DiShaYa/RSRAPI_Neo4j)
-- **Стек**: Python, HTML, Cypher
-- **Описание**: Сайт с нереляционной БД Neo4j и Яндекс.картой, представляющей рейсы самолетов
-
-#### [Сайт "Перспектива"](https://github.com/DiShaYa/vkr-iintegrated-development-environment-for-educational-systems-)
-- **Стек**: HTML, CSS, Python, MySQL
-- **Описание**: Сайт Flask с онлайн курсами
-
-#### [Телеграм бот с ИИ](https://github.com/DiShaYa/AI-Tg-bot-models-FewShotClassificationAndContextQuestionAnswering)
-- **Стек**: Python
-- **Описание**: Бот с ИИ, использующий модели Few-shots и ContextAnswering
-
-#### [DataAnalyz](https://github.com/DiShaYa/DataAnalyz)
-- **Стек**: Python
-- **Описание**: Анализ данных ответов на вопрос различными методами
